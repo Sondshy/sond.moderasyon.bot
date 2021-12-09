@@ -1,5 +1,5 @@
 const keys = {
-    "token": "OTE4NTIyNDk4MzQ0MTg5OTYy.YbIevA.50GBVyywddA18VlqE1rb7P5ASiE",
+    "token": ",
     "mongoose": "",
     "hookLogs":{
     "discordUserLogID": "918516374886817823",
